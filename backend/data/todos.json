@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ccbf1552-19a8-4c01-a85a-8c2fb4d8805a",
+    "title": "learn react",
+    "description": "finish the ziptrip todo assignment",
+    "completed": false,
+    "priority": "Low",
+    "createdAt": "2026-07-24T15:59:01.466Z"
+  },
+  {
+    "id": "f18880f0-5330-4915-8723-31e930d42b57",
+    "title": "AI Powered customer complaint",
+    "description": "complaint management system ",
+    "completed": true,
+    "priority": "High",
+    "createdAt": "2026-07-24T18:38:35.390Z"
+  }
+]
