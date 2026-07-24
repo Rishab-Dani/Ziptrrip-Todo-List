@@ -15,7 +15,7 @@ app.use(express.json());
 app.get("/", (req, res) => {
     res.json({
         success: true,
-        message: "Ziptrrip Todo API is running 🚀"
+        message: "TodoList API is running 🚀"
     });
 });
 

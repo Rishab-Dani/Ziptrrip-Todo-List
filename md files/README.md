@@ -43,23 +43,28 @@ ziptrrip-todo/
 │
 ├── backend/
 │   ├── controllers/
-│   ├── routes/
-│   ├── services/
 │   ├── data/
 │   │   └── todos.json
+│   ├── routes/
+│   ├── services/
 │   ├── app.js
-│   └── package.json
+│   ├── package.json
+│   └── package-lock.json
 │
 ├── frontend/
 │   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── package.json
+│   ├── public/
+│   ├── package.json
+│   ├── vite.config.js
+│   └── package-lock.json
 │
-└── README.md
+├── screenshots/
+│   ├── dashboard.png
+│   ├── add-todo.png
+│   ├── edit-todo.png
+│   └── todo-details.png
+│
+└── md files
 ```
 
 ---
@@ -127,6 +132,32 @@ http://localhost:5173
 - Clean form validation
 - Interactive status badges
 - Smooth hover animations
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Add Todo
+
+![Add Todo](screenshots/add-todo.png)
+
+---
+
+### Edit Todo
+
+![Edit Todo](screenshots/edit-todo.png)
+
+---
+
+### Todo Details
+
+![Todo Details](screenshots/todo-details.png)
 
 ---
 

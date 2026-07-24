@@ -61,7 +61,7 @@ GET /api/todos/1
 {
   "id": 1,
   "title": "Complete Assignment",
-  "description": "Finish Todo List App",
+  "description": "Finish TodoList App",
   "priority": "High",
   "completed": false,
   "createdAt": "2026-07-25T10:20:30Z"

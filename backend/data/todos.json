@@ -14,5 +14,13 @@
     "completed": true,
     "priority": "High",
     "createdAt": "2026-07-24T18:38:35.390Z"
+  },
+  {
+    "id": "06e1e6ea-8e8c-4f7b-bbda-5aeec3a8980e",
+    "title": "Prepare Assignment",
+    "description": "Finish the assignment before deadline!",
+    "completed": false,
+    "priority": "Medium",
+    "createdAt": "2026-07-24T19:19:30.344Z"
   }
 ]
